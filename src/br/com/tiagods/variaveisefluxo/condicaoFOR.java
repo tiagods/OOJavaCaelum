@@ -3,16 +3,16 @@ package br.com.tiagods.variaveisefluxo;
 public class condicaoFOR {
 		public static void main(String[] args){
 		
-		int i = 10;
+		/*int i = 10;
 		
-		/*for(i = 0; i<18; i++){
+		for(i = 0; i<18; i++){
 			System.out.println(i);
 			i++;
 		}*/
 		
-		int x = ++i;
+		/*int x = ++i;
 		
-		/*for(int y=i; y<=x; y++){
+		for(int y=i; y<=x; y++){
 			if(y % 11 == 0){
 				System.out.println("Achei um numero divisivel por 11= " +y);
 				break;
