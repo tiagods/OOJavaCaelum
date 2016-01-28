@@ -5,6 +5,7 @@ public class Conta {
 	int numero;
 	String dono;
 	double saldo, limite;
+	Cliente titular;
 	
 //	metodo sem retorno
 //	void saca(double quantidade){
